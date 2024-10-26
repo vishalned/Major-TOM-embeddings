@@ -15,7 +15,7 @@ This is a modified version of the [MMEarth-train](https://github.com/vishalned/M
 ![model-grey](https://github.com/vishalned/MMEarth-train/assets/27778126/d7defca4-f603-4f00-af7d-f18e4fb3be84)
 
 ## Installation
-See [INSTALL.md](https://github.com/vishalned/MMEarth-train/blob/main/INSTALL.md) for more instructions on the installation of dependencies. (For evaluating the model, you DO NOT need Minkowski Engine, FFCV and GEO-Bench).
+See [INSTALL.md](https://github.com/vishalned/Major-TOM-embeddings/blob/main/INSTALL.md) for more instructions on the installation of dependencies. (For evaluating the model, you DO NOT need Minkowski Engine, FFCV and GEO-Bench).
 
 
 ## Model Checkpoints
