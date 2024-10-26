@@ -5,7 +5,7 @@ This is a repository that includes scripts to create embeddings for a Sentinel-2
 ## Usage
 
 - `helpers_embeddings.py` contains all scripts needed to generate embeddings. You can use the functions directly as shown in the `if __name__ == '__main__':` block at the bottom. 
-- We use the Multi-modal MMEarth pre-trained weights that can be downloaded from [here](https://sid.erda.dk/share_redirect/g23YOnaaTp/pt-all_mod_atto_1M_64_uncertainty_56-8/).
+- We use the Multi-modal MMEarth pre-trained weights that can be downloaded from [here](https://sid.erda.dk/share_redirect/g23YOnaaTp/pt-all_mod_atto_1M_64_uncertainty_56-8/checkpoint-199.pth).
 
 
 ## Installation
